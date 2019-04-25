@@ -1,4 +1,4 @@
-# Pomodor clock
+# Pomodoro clock
     this project is part of freecodecamp projects.
     https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock/
 
