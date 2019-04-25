@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
         <div className="App">
-          Made with <span style={{color: "#e25555"}}>&hearts;</span> in Switzerland
+          Made with <span style={{color: "#e25555"}}>&hearts;</span> by Andress Hoyo
           <h1>Pomodoro Clock</h1>
           <Top 
             incrementBreakLength={this.props.incrementBreakLength}
